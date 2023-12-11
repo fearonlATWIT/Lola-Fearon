@@ -6,13 +6,14 @@ Professor Pang
 Comp 3125
 
 
-Individual Project Report
+##Individual Project Report##
 
-_Introduction_
+_Introduction:_
 
 This project analyzes the attributes of popular songs on Spotify in 2023. The data captured is able to identify certain music trends and can be used to predict the success of similar songs before debuting. These analyses provide insights into streaming trends, artist popularity, genre preferences, and the relationship between musical features and streaming success on Spotify in 2023. This data can be valuable to upcoming artists, established artists, and music labels wanting to grow in their numbers
 
-_Dataset_
+_Dataset:_
+
 I used the data from Kaggle called, "Most Streamed Songs 2023." This dataset listed information about streams for released songs under different categories such as danceability, energy, and acoustics. It also provided insights into each song's attributes, popularity, and presence on various music platforms. To make sure that the data was accurate to analyze, it was processed and cleaned.
 
 _Initial Questions-_ 
