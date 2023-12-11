@@ -36,7 +36,7 @@ _Questions Answered:_
 2. The top song to be put in a Spotify playlist is Get Lucky
 3. There was a tie for the most energic song: I'm Good (Blue) and Murder in My Mind
 4. There was a tie for the most acoustic song: Sweet Nothing and The Night We Met
-5. 
+5. The data is scattered with no clear trend line. I assume there is no correlation between the rank of popular songs correlate to how often it is saved on a Spotify playlist. It looks to appear there is no trend. 
 
 _Future Work Discussion:_
 
