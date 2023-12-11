@@ -29,7 +29,7 @@ I imported the song data from the "Most Streamed Songs 2023" file and preprocess
 
 _Results:_
 
-For the top songs of 2023, I did not expect the Weeknd to have two songs in the top 10. Since Taylor Swift has risen in popularity over the past few months, I expected her songs to be featured on that list. Blinding Lights was placed on two of the graphs I made for the top songs and top songs saved on spotify playlists. I was also surprised to see that there was such a wide variety of genres highlighted. The number two song, Murder in My Mind, is a popular song used on TikTok videos. It is interesting to see how social media platforms can affect the song charts in such a strong way. 
+For the top songs of 2023, I did not expect the Weeknd to have two songs in the top 10. Since Taylor Swift has risen in popularity over the past few months, I expected her songs to be featured on that list. Blinding Lights was placed on two of the graphs I made for the top songs and top songs saved on spotify playlists. I was also surprised to see that there was such a wide variety of genres highlighted in the energy category. The number two song, Murder in My Mind, is a popular song used on TikTok videos. It is interesting to see how social media platforms can affect the song charts in such a strong way. 
 
 _Questions Answered:_
 1. The most streamed song in 2023 was Blinding Lights by the Weeknd
